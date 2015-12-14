@@ -16,7 +16,6 @@ The course can be taught by (almost) anyone. No need for any recently-made-up ce
 ## Todo
 - Scripts for sessions #2 - #8.
 - Forms to measure KPIs before and after course.
-- Suggested reading.
 - [Thriver](http://www.thriver.io) as measurement tool.
 
 ## Course setup
@@ -60,6 +59,19 @@ After the course,
 - Be an active listener and ask questions.
 - Stay a while afterwards to answer questions from participants that they either didn't have the time to discuss during the session, or they want to do 1-on-1.
 - Write down the key points from the session and email them to the group.
+- 
+
+## Suggested reading
+As a teacher, you want to have an understanding of stress, methods to counter stress including meditation, flow, organizational development, leadership and coaching. There are a myriad of books available on these topics, such as:
+- Search Inside Yourself by Chade-Meng Tan
+- Full Catastrophe Living by Jon Kabat-Zinn
+- Focus by Daniel Goleman
+- Flow by Mihaly Csikszentmihalyi
+- Mindfulness by Joseph Goldstein
+- The Buddha's Brain by Rick Hanson
+- Waking Up by Sam Harris
+- How The Mind Work by Steven Pinker
+- Reinventing Organizations by Frederic Laloux
 
 ## License
 This course is published under the [GNU GPL license](LICENSE). That basically means you are free to copy and update it for free, as long as you publish your own stuff under the same license.
