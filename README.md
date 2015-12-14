@@ -15,7 +15,6 @@ The course can be taught by (almost) anyone. No need for any recently-made-up ce
 
 ## Todo
 - Scripts for sessions #2 - #8.
-- [Thriver](http://www.thriver.io) as measurement tool.
 
 ## Course setup
 8 participants meet once every week for a 60 minute session with a teacher for a total of 8 sessions. Between sessions the participants will do homework on their own - mostly meditation practices.
@@ -73,6 +72,11 @@ As a teacher, you want to have an understanding of stress, methods to counter st
 - Waking Up by Sam Harris
 - How The Mind Work by Steven Pinker
 - Reinventing Organizations by Frederic Laloux
+
+## Tools
+I use [Thriver](http://www.thriver.io) to measure stress levels of the participants during the course. It's helpful to do some A/B testing with another team that is not doing the course but with a similar situation. Thriver also includes guided meditations that the participants can use as homework.
+
+You can also set up a Slack channel for the course where the group can bounce ideas, give feedback, motivate each others and ask for help.
 
 ## License
 This course is published under the [GNU GPL license](LICENSE). That basically means you are free to copy and update it for free, as long as you publish your own stuff under the same license.
