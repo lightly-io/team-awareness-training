@@ -26,4 +26,4 @@ Make sure to let the participants know that the form is anonymous.
 - Feedback on course.
 - Course ROI, value compared to investment in time. %
 - Other.
-- Secret handle, which should be saved and used in the form after the course to relate data.
+- Secret handle, which should be the same as was used in the pre-course form to correlate data.
