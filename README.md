@@ -14,9 +14,10 @@ The course can be taught by (almost) anyone. No need for any recently-made-up ce
 6. [AAQ](#aaq-anticipated-asked-questions).
 
 ## Todo
-- Script for sessions #1 - #8
-- Forms to measure KPIs before and after course
-- Suggested reading
+- Script for sessions #2 - #8.
+- Forms to measure KPIs before and after course.
+- Suggested reading.
+- [Thriver](www.thriver.io) as measurement tool.
 
 ## Course setup
 8 participants meet once every week for a 60 minute session with a teacher for a total of 8 sessions. Between sessions the participants will do homework on their own - mostly meditation practices.
