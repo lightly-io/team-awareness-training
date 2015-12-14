@@ -1,5 +1,5 @@
 # Team awareness training
-8-week course in meditation &amp; mindfulness for a team, published under the [GNU GPL license](#license).
+8-week course in meditation &amp; mindfulness for a team, published under the [GNU GPL license](license).
 
 The goal of this course is to increase participants focus and lower their stress levels. 
 
@@ -61,7 +61,7 @@ After the course,
 - Write down the key points from the session and email them to the group.
 
 ## License
-This course is published under the GNU General Public License. That means you are free to copy and update it freely, as long as you publish your own stuff under the same license.
+This course is published under the [GNU GPL license](license). That basically means you are free to copy and update it for free, as long as you publish your own stuff under the same license.
 
 ## AAQ (Anticipated asked questions)
 ### Can anyone run this course?
