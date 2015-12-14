@@ -3,19 +3,19 @@
 In this session, participants will learn the basic theoretical framework of what causes stress, how stress activates in the physical body, why stress works in such a way, how stress relates to productivity and a simple method to battle stress - deep breathing.
 
 ## Setup
-1. [Round](#1-round): name and goal with signing up for the course. (10 min)
+1. [Intro](#1-introduction): name and goal with signing up for the course. (10 min)
 2. [Teaching](#2-teaching-an-overview-of-stress): an overview of stress. (20 min)
 3. [Method](#3-method-deep-breathing): deep breathing. (20 min)
-4. [Round](#4-round): reflection on deep breathing and promise. (10 min)
+4. [Reflection](#4-reflection): reflection on deep breathing and homework. (10 min)
 
 The teacher should note all key findings and questions in the session, and make sure to follow up on them in the email afterwards.
 
-## 1. Round
+## 1. Introduction
 Present yourself as a teacher. Name and background should be enough.
-Ask the participants to present themselves with their names, how they spend their days, and what they hope to achieve by participating in the course.
+Ask the participants to present themselves with their names, how they spend their days, and what they hope to achieve by participating in the course. Take turns clock-wise around the table. 
 Try to use mnemonics to learn their names right away, or write them down.
 
-Make a group decision if you want to stay offline during the session.
+Make a group decision if you want to stay offline during the session. Previous participants have found it immensely calming to put away everything digital for one hour every week. If the group is hesitant, ask if they want to do it as an experiment. Try it out for a session, and make the decision at the end. 
 
 ## 2. Teaching: an overview of stress
 Is stress good or bad? It depends. A bit of stress is good, it keeps us alert. But too much stress makes it hard to focus. The more stressed we are, the more we're prone to multi-tasking, which decreases productivity. Stress is also related to a bunch of diseases such as cardiovascular, psoriasis, and long-term stress could cause a burnout.
@@ -60,7 +60,7 @@ Their *homework* is to do deep breathing twice every day for at least ten minute
 
 Do 10 minutes of deep breathing together. Answer any questions that might come up afterwards about the technique.
 
-## 4. Round
+## 4. Reflection
 Now, let every participant reflect on what was taught. It should not be a discussion at this point, but rather their own, unfiltered thoughts. Ask them when they think they will find the time to do the deep breathing. Point out to them that this is not a theoretical activity - it is a practical one. If they don't actually do the deep breathing, they will not get any results.
 
 After the round, tell the group that you will be staying afterwards to answer any questions that you didn't have time to discuss during the session or that they would like to ask 1-on-1.
