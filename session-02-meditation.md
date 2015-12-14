@@ -15,11 +15,17 @@ Take turns clock-wise around the table and reflect on the previous week. How has
 
 Make sure to let every person talk until they're finished. There's no need to rush them. Answer any questions, but try not to steer their reflection.
 
+Note that mental training works like physical training. Results are related to input and effort. If the group has trouble finding the time to do their homework, try helping them out. Is it easier at home or at work? On the commute? During breaks? 
+
+If the group works in the same building, perhaps they can set up a daily session in a conference room where they do the exercises together.
+
+It's not your job to make them feel bad for not doing the homework. Point out how important it is and coach them to make it happen.
+
 ## 2. Teaching: meditation
-text
+asdasd
 
 ## 3. Method: meditation
-text
+asdasd
 
 ## 4. Reflection
 Now, let every participant reflect on what was taught. It should not be a discussion at this point, but rather their own, unfiltered thoughts. Ask them when they think they will find the time to do the deep breathing. Point out to them that this is not a theoretical activity - it is a practical one. If they don't actually do the deep breathing, they will not get any results.
