@@ -10,8 +10,9 @@ The course can be taught by (almost) anyone. No need for any recently-made-up ce
 2. [Course setup](#course-setup).
 3. [Sessions](#session-overview).
 4. [The teachers job](#the-teachers-job).
-5. [License](#license).
-6. [AAQ](#aaq-anticipated-asked-questions).
+5. [Tools](#tools).
+6. [License](#license).
+7. [AAQ](#aaq-anticipated-asked-questions).
 
 ## Todo
 - Scripts for sessions #2 - #8.
