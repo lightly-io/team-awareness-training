@@ -59,7 +59,6 @@ After the course,
 - Be an active listener and ask questions.
 - Stay a while afterwards to answer questions from participants that they either didn't have the time to discuss during the session, or they want to do 1-on-1.
 - Write down the key points from the session and email them to the group.
-- 
 
 ## Suggested reading
 As a teacher, you want to have an understanding of stress, methods to counter stress including meditation, flow, organizational development, leadership and coaching. There are a myriad of books available on these topics, such as:
