@@ -27,14 +27,14 @@ This course aims to lower stress in all participants by an average of 25% as wel
 
 ## Session overview
 
-1. [An overview of stress](session-01-stress.md)
-2. Meditation
-3. Mindfulness
-4. Emotional intelligence
-5. Flow
-6. Company culture
-7. Well-being
-8. Further training
+1. [An overview of stress](session-01-stress.md).
+2. Meditation.
+3. Mindfulness.
+4. Emotional intelligence.
+5. Flow.
+6. Company culture.
+7. Well-being.
+8. Further training.
 
 ## The teachers job
 
@@ -64,15 +64,20 @@ After the course,
 
 ## Suggested reading
 As a teacher, you want to have an understanding of stress, methods to counter stress including meditation, flow, organizational development, leadership and coaching. There are a myriad of books available on these topics, such as:
-- Search Inside Yourself by Chade-Meng Tan
-- Full Catastrophe Living by Jon Kabat-Zinn
-- Focus by Daniel Goleman
-- Flow by Mihaly Csikszentmihalyi
-- Mindfulness by Joseph Goldstein
-- The Buddha's Brain by Rick Hanson
-- Waking Up by Sam Harris
-- How The Mind Work by Steven Pinker
-- Reinventing Organizations by Frederic Laloux
+- Search Inside Yourself by Chade-Meng Tan.
+- Full Catastrophe Living by Jon Kabat-Zinn.
+- Focus by Daniel Goleman.
+- Flow by Mihaly Csikszentmihalyi.
+- Mindfulness by Joseph Goldstein.
+- The Buddha's Brain by Rick Hanson.
+- Waking Up by Sam Harris.
+- How The Mind Works by Steven Pinker.
+- Reinventing Organizations by Frederic Laloux.
+- Focused & Fearless by Shaila Catherine.
+- Radical Acceptance by Tara Brach.
+- A Path With Heart by Jack Kornfield.
+- Meditations by Marcus Aurelius.
+- The Way of Zen by Alan Watts.
 
 ## Tools
 I use [Thriver](http://www.thriver.io) to measure stress levels of the participants during the course. It's helpful to do some A/B testing with another team that is not doing the course but with a similar situation. Thriver also includes guided meditations that the participants can use as homework.
@@ -80,9 +85,11 @@ I use [Thriver](http://www.thriver.io) to measure stress levels of the participa
 You can also set up a Slack channel for the course where the group can bounce ideas, give feedback, motivate each others and ask for help.
 
 ## License
-This course is published under the [GNU GPL license](LICENSE). That basically means you are free to copy and update it for free, as long as you publish your own stuff under the same license. Every fork makes me 10% happier. Please don't be shy to do pull requests as well. This course should be constantly updated with new findings and ideas.
+This course is published under the [GNU GPL license](LICENSE). That basically means you are free to copy and update it as long as you publish your own stuff under the same license. Every fork makes me 10% happier. 
 
-## AAQ (Anticipated asked questions)
+Please don't be shy to do pull requests as well. This course should be constantly updated with new findings and ideas.
+
+## AAQ (Anticipated Asked Questions)
 ### Can anyone run this course?
 Yes! 
 
