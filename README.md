@@ -15,7 +15,6 @@ The course can be taught by (almost) anyone. No need for any recently-made-up ce
 
 ## Todo
 - Scripts for sessions #2 - #8.
-- Forms to measure KPIs before and after course.
 - [Thriver](http://www.thriver.io) as measurement tool.
 
 ## Course setup
@@ -50,11 +49,11 @@ Let people in the office know you want to help them be more calm and focused.
 - Sign up 8 participants.
 - Book a room for all 8 sessions.
 - Send meeting invites.
-- Send pre-course evaluation form along with course information. 
+- Send [pre-course evaluation form](forms.md) along with course information. 
 
 After the course,
-- Send out anonymous feedback form.
-- Compile feedback and set it to the group, including the measurements of KPIs before and after.
+- Send out [anonymous feedback form](forms.md).
+- Compile feedback and set it to the group as a PDF, including the measurements of KPIs before and after.
 
 ### Every session
 - Facilitate the exercises.
