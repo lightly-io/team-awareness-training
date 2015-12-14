@@ -80,7 +80,7 @@ I use [Thriver](http://www.thriver.io) to measure stress levels of the participa
 You can also set up a Slack channel for the course where the group can bounce ideas, give feedback, motivate each others and ask for help.
 
 ## License
-This course is published under the [GNU GPL license](LICENSE). That basically means you are free to copy and update it for free, as long as you publish your own stuff under the same license.
+This course is published under the [GNU GPL license](LICENSE). That basically means you are free to copy and update it for free, as long as you publish your own stuff under the same license. Every fork makes me 10% happier. Please don't be shy to do pull requests as well. This course should be constantly updated with new findings and ideas.
 
 ## AAQ (Anticipated asked questions)
 ### Can anyone run this course?
