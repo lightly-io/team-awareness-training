@@ -3,10 +3,10 @@
 In this session, participants will learn what meditation is, how to meditate, what happens in the body and brain when you meditate and some philosophical elements of the practice.
 
 ## Setup
-1. Round: experience of deep breathing. (10 min)
-2. Teaching: meditation. (20 min)
-3. Method: meditation. (20 min)
-4. Round: reflection on meditation (10 min)
+1. [Round](#01-round): experience of deep breathing. (10 min)
+2. [Teaching](#02-teaching-meditation): meditation. (20 min)
+3. [Method](#03-method-meditation): meditation. (20 min)
+4. [Round](#04-round): reflection on meditation (10 min)
 
 The teacher should note all key findings and questions in the session, and make sure to follow up on them in the email afterwards.
 
