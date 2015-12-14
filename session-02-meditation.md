@@ -3,15 +3,17 @@
 In this session, participants will learn what meditation is, how to meditate, what happens in the body and brain when you meditate and some philosophical elements of the practice.
 
 ## Setup
-1. [Sharing](#1-sharing): experience of deep breathing. (10 min)
+1. [Sharing](#1-sharing): reflections on previous week. (10 min)
 2. [Teaching](#2-teaching-meditation): meditation. (20 min)
 3. [Method](#3-method-meditation): meditation. (20 min)
-4. [Reflection](#4-reflection): reflection on meditation (10 min)
+4. [Reflection](#4-reflection): reflection on meditation. (10 min)
 
 The teacher should note all key findings and questions in the session, and make sure to follow up on them in the email afterwards.
 
 ## 1. Sharing
-text
+Take turns clock-wise around the table and reflect on the previous week. How has your experience of deep breathing been? Was it hard? Easy? Nice? Uncomfortable? Was it hard to find the time to do it? Did you notice anything different in stressful situations?
+
+Make sure to let every person talk until they're finished. There's no need to rush them. Answer any questions, but try not to steer their reflection.
 
 ## 2. Teaching: meditation
 text
