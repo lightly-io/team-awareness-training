@@ -45,7 +45,7 @@ We could say that our brains are still buggy: optimized for an old operating sys
 ## 3. Method: deep breathing
 The easiest way to counter-act the fight-flight-or-freeze reaction is to breathe deeply.
 
-Guide the partcipants to put a hand or their stomachs and expand the stomach on the in-breath, and collapse it on the out-breath.
+Guide the partcipants to put a hand or their stomachs and expand the stomach on the in-breath, and collapse it on the out-breath. Good posture (i.e. sitting with a straight back) will help activating the diaphragm and thus deepening the breath.
 
 Helpful tools include:
 - Smiling
@@ -58,10 +58,18 @@ Ask the participants to try for themselves at home what works best for them.
 
 Their *homework* is to do deep breathing twice every day for at least ten minutes. They could also, of course, deep breath whenever: in the line at a coffee shop, in the elevator, and so forth.
 
+Do 10 minutes of deep breathing together. Answer any questions that might come up afterwards about the technique.
+
 ## 4. Round
 Now, let every participant reflect on what was taught. It should not be a discussion at this point, but rather their own, unfiltered thoughts. Ask them when they think they will find the time to do the deep breathing. Point out to them that this is not a theoretical activity - it is a practical one. If they don't actually do the deep breathing, they will not get any results.
 
 After the round, tell the group that you will be staying afterwards to answer any questions that you didn't have time to discuss during the session or that they would like to ask 1-on-1.
+
+## Extra material
+If there is additional time available, you could talk about these things as well:
+- Show the Yerkes-Dodson graph which depicts the relationship between stress and productivity. Note that the bell curve looks different depending on the complexity and character of the activity.
+- The interpretation of the body's stress response is key to making it positive or negative. The physical reaction to stress is mirrored by courage. We're getting ready for a fight. If you try to smile while feeling stressed, and make an active choice to see it as something helpful, it might stop a negative spiral of anxiety.
+- Deep breathing is also a sort of yoga practice called pranayama. So, in a way, you've been doing yoga together during this session. Traditiona yoga has eight parts, where one is breathing, one is postures (asanas), one is ethics, one is meditation, and so forth.
 
 -
 
