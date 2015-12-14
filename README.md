@@ -25,6 +25,8 @@ The course will have a scientific viewpoint as a starting point, and everything 
 ### Target outcomes
 This course aims to lower stress in all participants by an average of 25% as well as increase focus in all participants. I've been able to reproduce that result consistenly over my last 5 courses.
 
+The results are highly dependent on the amount of effort every participant puts in. These practices are more practical than theoretical. Just reading about them will not help. Just knowing them will not help. They have to put in the work. It's like physical exercise, in that way.
+
 ## Session overview
 
 1. [An overview of stress](session-01-stress.md).
