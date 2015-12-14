@@ -3,10 +3,10 @@
 In this session, participants will learn the basic theoretical framework of what causes stress, how stress activates in the physical body, why stress works in such a way, how stress relates to productivity and a simple method to battle stress - deep breathing.
 
 ## Setup
-1. [Round](1-round): name and goal with signing up for the course. (10 min)
-2. [Teaching](2-teaching-an-overview-of-stress): an overview of stress. (20 min)
-3. [Method](3-method-deep-breathing): deep breathing. (20 min)
-4. [Round](4-round): reflection on deep breathing and promise. (10 min)
+1. [Round](#1-round): name and goal with signing up for the course. (10 min)
+2. [Teaching](#2-teaching-an-overview-of-stress): an overview of stress. (20 min)
+3. [Method](#3-method-deep-breathing): deep breathing. (20 min)
+4. [Round](#4-round): reflection on deep breathing and promise. (10 min)
 
 The teacher should note all key findings and questions in the session, and make sure to follow up on them in the email afterwards.
 
