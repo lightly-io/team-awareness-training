@@ -13,8 +13,6 @@ The goal of this course is to increase participants focus and lower their stress
 7. [AAQ](#aaq-anticipated-asked-questions).
 
 ## Todo
-- Script for session #6.
-- Script for session #7.
 - Script for session #8.
 
 ## Course setup
@@ -32,10 +30,10 @@ The results are highly dependent on the amount of effort every participant puts 
 1. [An overview of stress](sessions/session-01-stress.md).
 2. [Meditation](sessions/session-02-meditation.md).
 3. [Mindfulness](sessions/session-03-mindfulness.md).
-4. [Emotional intelligence](sessions/session-05-eq.md).
-5. [Flow](sessions/session-06-flow.md).
-6. Company culture.
-7. Well-being.
+4. [Emotional intelligence](sessions/session-04-eq.md).
+5. [Flow](sessions/session-05-flow.md).
+6. [Company culture](sessions/session-06-culture.md).
+7. [Well-being](sessions/session-07-well-being.md).
 8. Further training.
 
 ## The teachers job
