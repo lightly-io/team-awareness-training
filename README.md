@@ -3,8 +3,6 @@
 
 The goal of this course is to increase participants focus and lower their stress levels. 
 
-The course can be taught by (almost) anyone. No need for any recently-made-up certificate or yoga pants.
-
 ## Table of contents
 1. [Todo](#todo).
 2. [Course setup](#course-setup).
@@ -46,14 +44,15 @@ In order to teach this course, you need to ...
 - ... and of course: a genuine interest in helping the participants increase their focus and lower their stress levels.
 
 ### Before and after the course
-Let people in the office know you want to help them be more calm and focused.
 
+#### Before the course
+- Let people in the office know you want to help them be more calm and focused.
 - Sign up 8 participants.
 - Book a room for all 8 sessions.
 - Send meeting invites.
 - Send [pre-course evaluation form](forms.md) along with course information. 
 
-After the course,
+#### After the course
 - Send out [anonymous feedback form](forms.md).
 - Compile feedback and set it to the group as a PDF, including the measurements of KPIs before and after.
 
@@ -95,7 +94,23 @@ Please don't be shy to do pull requests as well. This course should be constantl
 
 ## AAQ (Anticipated Asked Questions)
 ### Can anyone run this course?
-Yes! 
+Yes! As long as they have the time and the motivation.
 
-### Even if they aren't a Super Certificed Aware Mindfullness coach (SCAMc)?
+### Even if they aren't a Super Certificed Aware Mindfullness (SCAM™) coach?
 Yes!
+
+### But my swami says this should be kept to just a few selected people ...
+I don't think so. It's kind of like jogging. It should be available to everyone. If you know a bit of jogging - teach someone how to jog.
+
+It's not rocket science.
+
+Of course, you could teach advanced techniques, methods and theories. But from my perspective, a lot of people are in desperate need of just the basic method. Sit down, watch your mind, watch your breath. 
+
+Or perhaps we can compare it to dieting. Most people don't need any advanced dieting regimes. Just move your booty and stay away from that candy and pizza, and you'll be OK. Anyone can teach that. The teaching is not the hard part.
+
+The magic is more in the process. As a group, we hold each other accountable. As a teacher, you motivate. By measuring, we can see tangible results and that feedback loop helps you keep on going.
+
+So, no, I don't think it should be kept a secret.
+
+If you want to, you can make up your own certificate and give it to yourself. 
+
