@@ -63,4 +63,4 @@ After the round, tell the group that you will be staying afterwards to answer an
 
 -
 
-[Session #1 - An overview of stress](session-01-stress.md) | [Team Awareness Training](../..) | [Session #3 - Mindfulness](session-03-mindfulness.md)
+[Session #1 - An overview of stress](session-01-stress.md) | [Team Awareness Training](../../..) | [Session #3 - Mindfulness](session-03-mindfulness.md)
