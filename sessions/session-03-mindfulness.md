@@ -67,4 +67,4 @@ After the round, tell the group that you will be staying afterwards to answer an
 
 -
 
-[Session #2 - Meditation](session-02-meditation.md) | [Team Awareness Training](../..) | [Session #4 - Emotional intelligence](session-04-eq.md)
+[Session #2 - Meditation](session-02-meditation.md) | [Team Awareness Training](../../..) | [Session #4 - Emotional intelligence](session-04-eq.md)
