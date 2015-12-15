@@ -27,9 +27,9 @@ The results are highly dependent on the amount of effort every participant puts 
 
 ## Session overview
 
-1. [An overview of stress](session-01-stress.md).
-2. [Meditation](session-02-meditation.md).
-3. [Mindfulness](session-03-mindfulness.md).
+1. [An overview of stress](sessions/session-01-stress.md).
+2. [Meditation](sessions/session-02-meditation.md).
+3. [Mindfulness](sessions/session-03-mindfulness.md).
 4. Emotional intelligence.
 5. Flow.
 6. Company culture.
