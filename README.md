@@ -13,7 +13,7 @@ The goal of this course is to increase participants focus and lower their stress
 7. [AAQ](#aaq-anticipated-asked-questions).
 
 ## Todo
-- Scripts for sessions #2 - #8.
+- Scripts for sessions #3 - #8.
 
 ## Course setup
 8 participants meet once every week for a 60 minute session with a teacher for a total of 8 sessions. Between sessions the participants will do homework on their own - mostly meditation practices.
@@ -28,7 +28,7 @@ The results are highly dependent on the amount of effort every participant puts 
 ## Session overview
 
 1. [An overview of stress](session-01-stress.md).
-2. Meditation.
+2. [Meditation](session-02-meditation.md).
 3. Mindfulness.
 4. Emotional intelligence.
 5. Flow.
