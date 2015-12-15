@@ -76,4 +76,4 @@ After the round, tell the group that you will be staying afterwards to answer an
 
 -
 
-[Session #4 - Emotional intelligence](session-04-eq.md) | [Team Awareness Training](../../..) | [Session #6 - Company culture](session-06-company-culture.md)
+[Session #4 - Emotional intelligence](session-04-eq.md) | [Team Awareness Training](../../..) | [Session #6 - Company culture](session-06-culture.md)
