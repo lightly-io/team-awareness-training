@@ -3,10 +3,10 @@
 In this session, we will shift our focus from our individual training to how we as a group and organisation can maximize our levels of calm and focus.
 
 ## Setup
-1. [Sharing](1-sharing): thoughts on flow. (10 min)
-2. [Teaching](2-teaching-company-culture): company culture. (20 min)
-3. [Method](3-methods-to-increase-group-productivity): ideas on improving group productivity. (20 min)
-4. [Reflection](4-reflection). (10 min)
+1. [Sharing](#1-sharing): thoughts on flow. (10 min)
+2. [Teaching](#2-teaching-company-culture): company culture. (20 min)
+3. [Method](#3-methods-to-increase-group-productivity): ideas on improving group productivity. (20 min)
+4. [Reflection](#4-reflection). (10 min)
 
 The teacher should note all key findings and questions in the session, and make sure to follow up on them in the email afterwards.
 
