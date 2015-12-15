@@ -32,7 +32,7 @@ This was awesome, because the dangers were usually life and death situations. Ev
 
 But here in 2015, no real dangers are threatening us. Well, real threats like climate change are to abstract and far away to trigger the amygdala's fear response. We do, however, react to every sense of danger still. So when our project is going down the drain, our stress response sets in.
 
-The stress response, called the fight-fight-or-freeze (or activating the sympathethic autonomous nervous system, if you want to be fancy) is tailored towards physical danger. It helps us run faster, basically. Our heartbeat increases, we start sweating, our pupils are dilated, and so forth. All of our senses are heightened so that we can hear and see danger everywhere.
+The stress response, called the fight-flight-or-freeze (or activating the sympathethic autonomous nervous system, if you want to be fancy) is tailored towards physical danger. It helps us run faster, basically. Our heartbeat increases, we start sweating, our pupils are dilated, and so forth. All of our senses are heightened so that we can hear and see danger everywhere.
 
 This sucks in a modern workplace.
 
@@ -69,7 +69,7 @@ After the round, tell the group that you will be staying afterwards to answer an
 If there is additional time available, you could talk about these things as well:
 - Show the Yerkes-Dodson graph which depicts the relationship between stress and productivity. Note that the bell curve looks different depending on the complexity and character of the activity.
 - The interpretation of the body's stress response is key to making it positive or negative. The physical reaction to stress is mirrored by courage. We're getting ready for a fight. If you try to smile while feeling stressed, and make an active choice to see it as something helpful, it might stop a negative spiral of anxiety.
-- Deep breathing is also a sort of yoga practice called pranayama. So, in a way, you've been doing yoga together during this session. Traditiona yoga has eight parts, where one is breathing, one is postures (asanas), one is ethics, one is meditation, and so forth.
+- Deep breathing is also a sort of yoga practice called pranayama. So, in a way, you've been doing yoga together during this session. Traditional yoga has eight parts, where one is breathing, one is postures (asanas), one is ethics, one is meditation, and so forth.
 
 -
 
