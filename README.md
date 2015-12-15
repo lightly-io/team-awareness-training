@@ -34,7 +34,7 @@ The results are highly dependent on the amount of effort every participant puts 
 5. [Flow](sessions/session-05-flow.md).
 6. [Company culture](sessions/session-06-culture.md).
 7. [Well-being](sessions/session-07-well-being.md).
-8. Further training.
+8. [Further training](sessions/session-08-further-training.md).
 
 ## The teachers job
 
