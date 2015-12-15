@@ -6,7 +6,7 @@ In this final session, the group will discuss how to carry on their own training
 1. [Sharing](#1-sharing): reflections on well-being. (10 min)
 2. [Teaching](#2-what-happens-now): training after the course ends. (20 min)
 3. [Method](#3-a-final-meditation-session): final meditation session. (20 min)
-4. [Reflection](#4-reflection. (10 min)
+4. [Reflection](#4-reflection). (10 min)
 
 The teacher should note all key findings and questions in the session, and make sure to follow up on them in the email afterwards.
 
