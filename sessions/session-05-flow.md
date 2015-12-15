@@ -3,10 +3,10 @@
 In this session, participants will learn what flow really is and how to achieve it at work.
 
 ## Setup
-1. [Sharing]: reflections on emotional intelligence exercises from the previous week. (10 min)
-2. [Teaching]: flow. (20 min)
-3. [Method]: how to maximize flow. (20 min)
-4. [Reflection]. (10 min)
+1. [Sharing](#1-sharing): reflections on emotional intelligence exercises from the previous week. (10 min)
+2. [Teaching](#2-teaching-flow): flow. (20 min)
+3. [Method](#3-methods-to-increase-flow): how to maximize flow. (20 min)
+4. [Reflection](#4-reflection). (10 min)
 
 The teacher should note all key findings and questions in the session, and make sure to follow up on them in the email afterwards.
 
@@ -46,7 +46,7 @@ Most of us are used to working in an environment that both digitally and physica
 
 So how do we go about it?
 
-## 3. Method: maximizing flow
+## 3. Methods to increase flow
 I suggest starting small. Set up one (1) hour everyday where everyone is allowed to work undisturbed. This could mean working from home or a coffee shop or working at the office but not being allowed to be disturbed.
 
 To get rid of distractions, shut of your email client. You can also use apps like Freedom and Self-control to shut down the internet on your laptop, or just specific websites.
@@ -74,4 +74,4 @@ After the round, tell the group that you will be staying afterwards to answer an
 
 -
 
-[Session #4 - Emotional intelligence] | [Team Awareness Training] | [Session #6 - Company culture]
+[Session #4 - Emotional intelligence](session-04-eq.md) | [Team Awareness Training](../../..) | [Session #6 - Company culture](session-06-company-culture.md)
