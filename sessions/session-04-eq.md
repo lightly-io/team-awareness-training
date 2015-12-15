@@ -3,10 +3,10 @@
 In this session, participants will learn how to recognize and manage their emotions more efficient.
 
 ## Setup
-1. [Sharing]: reflections the previous weeks meditation practice. (10 min)
-2. [Teaching]: emotional intelligence. (20 min)
-3. [Method]: different ways to increase mindfulness. (20 min)
-4. [Reflection]. (10 min)
+1. [Sharing](#1-sharing): reflections the previous weeks meditation practice. (10 min)
+2. [Teaching](#2-teaching-emotional-intelligence): emotional intelligence. (20 min)
+3. [Method](#3-method-invite-mara-for-tea): different ways to increase mindfulness. (20 min)
+4. [Reflection](#4-reflection). (10 min)
 
 The teacher should note all key findings and questions from the session and make sure to follow up on them in the email afterwards.
 
