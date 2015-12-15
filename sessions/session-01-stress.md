@@ -73,4 +73,4 @@ If there is additional time available, you could talk about these things as well
 
 -
 
-[Team Awareness Training](../..) | [Session #2 - Meditation](session-02-meditation.md)
+[Team Awareness Training](../../..) | [Session #2 - Meditation](session-02-meditation.md)
