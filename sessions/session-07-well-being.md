@@ -52,6 +52,8 @@ Another method to battle negativity bias is to savor the moment. When something 
 
 We’re so used to identify and work with problems we might miss the big picture. Many of us actually have really good lives but we only focus on the bad stuff. It’s been good from an evolutionary standpoint but it might not be as necessary anymore.
 
+The **homework** for this week is to keep meditating for two times a day. The participants can exchange one of the sessions to gratitude list writing if they wish to do so.
+
 ## 4. Reflection
 Take turns counter-clockwise to reflect on what was taught. Do you have a negativity bias? Or do you spend most of your day content? How about your team? What methods are you currently using to increase well-being? 
 
