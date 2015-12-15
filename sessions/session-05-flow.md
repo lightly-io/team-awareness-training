@@ -59,6 +59,8 @@ For every course I’ve done so far, no-one has wanted to go back to a state whe
 
 How does this relate to meditation? Meditation is a way to get rid of your *inner* distractions. Internet is not a problem if you know how to handle it. But some of us don’t.
 
+The group's homework is to schedule one hour every day for flow. No phones, and perhaps even no internet, but most importantly: no physical distractions. Book a conference room.
+
 ## 4. Reflection
 Take turns counter-clockwise to reflect on what was taught. Is the group excited about the idea of flow? Is Mastery and Purpose in place or would they need to fix that as well?
 
