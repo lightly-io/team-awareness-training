@@ -30,8 +30,8 @@ The results are highly dependent on the amount of effort every participant puts 
 1. [An overview of stress](sessions/session-01-stress.md).
 2. [Meditation](sessions/session-02-meditation.md).
 3. [Mindfulness](sessions/session-03-mindfulness.md).
-4. Emotional intelligence.
-5. Flow.
+4. [Emotional intelligence](sessions/session-05-eq.md).
+5. [Flow](sessions/session-06-flow.md).
 6. Company culture.
 7. Well-being.
 8. Further training.
