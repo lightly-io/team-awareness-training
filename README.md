@@ -1,7 +1,7 @@
 # Team awareness training
-8-week course in meditation &amp; mindfulness for a team, published under the [Creative Commons License](LICENSE).
+8-week course in meditation &amp; mindfulness for a team. Published under the [Creative Commons License](LICENSE).
 
-The goal of this course is to increase participants focus and lower their stress levels. 
+The goal of this course is to increase focus and stress management skills.
 
 ## Table of contents
 1. [Todo](#todo).
@@ -16,14 +16,14 @@ The goal of this course is to increase participants focus and lower their stress
 - Script for session #8.
 
 ## Course setup
-8 participants meet once every week for a 60 minute session with a teacher for a total of 8 sessions. Between sessions the participants will do homework on their own - mostly meditation practices.
+Eight participants meet once every week for a 60 minute session. A teacher will teach them new methods and facilitate reflection and learning. The course runs for eight weeks. Between sessions the participants will do homework on their own - mostly meditation practices.
 
-The course will have a scientific viewpoint as a starting point, and everything taught should be verified in clinical trials and/or the participants own experiences. KPIs such as stress and focus will be measured before and after the course to determine the result and ROI.
+The course will have a scientific viewpoint as a starting point. Everything taught should be verified in clinical trials and/or the participants own experiences. The teachers measures KPIs such as stress and focus before and after the course.
 
 ### Target outcomes
-This course aims to lower stress in all participants by an average of 25% as well as increase focus in all participants. I've been able to reproduce that result consistenly over my last 5 courses.
+This course aims to lower stress and increase focus in all participants. Target number depends on the team. A decrease of stress by 25%-30% is a good starting point. I've been able to reproduce that result consistenly over my last 5 courses.
 
-The results are highly dependent on the amount of effort every participant puts in. These practices are more practical than theoretical. Just reading about them will not help. Just knowing them will not help. They have to put in the work. It's like physical exercise, in that way.
+The results are dependent on the amount of effort every participant puts in. These practices are more practical than theoretical. Just reading about them will not help. Just knowing them will not help. They have to put in the work. It's like physical exercise, in that way.
 
 ## Session overview
 
@@ -38,10 +38,21 @@ The results are highly dependent on the amount of effort every participant puts 
 
 ## The teachers job
 
-In order to teach this course, you need to ...
-- ... have the time to read through the documentation for all the sessions, send out all emails, coordinate room booking and invites, coach the participants in their training and manage the feedback and evaluations. **32 hours / course.**
-- ... as well as the time and energy to stay up to date on the latest research on stress, performance, well-being and tools to optimize these areas. **4-12 hours / week.**
-- ... and of course: a genuine interest in helping the participants increase their focus and lower their stress levels.
+To teach this course, you need to ...
+- have the time to 
+- - read through the documentation for all the sessions
+- - send out all emails
+- - coordinate room booking and invite
+- - coach the participants in their training 
+- - and manage the feedback and evaluations. 
+- - **32 hours / course.**
+- as well as the time and energy to 
+- - stay up to date on the latest research on stress
+- - performance
+- - well-being 
+- - and tools to optimize these areas. 
+- - **4-12 hours / week.**
+- and of course: a genuine interest in helping the participants increase their focus and lower their stress levels.
 
 ### Before and after the course
 
