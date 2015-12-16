@@ -39,9 +39,9 @@ The results are dependent on the amount of effort every participant puts in. The
 ## Requirements to be a teacher
 
 To teach this course, you need to
-- Have the time to do it. Rougly 32 hours of effort is needed from the teacher in every course.
-- Have the time to stay up to date on research. You need to be on top of stress, producitivity, leadership, and organizational theory. This takes rougly 8 hours every week.
-- And of course, a genuine passion for teaching. Preferably in these areas. :)
+- Have the time to do it. Every course demands 32 hours from the teacher.
+- Have the time to stay up to date on research. The teacher need to be on top of stress, producitivity, leadership, and organizational theory. This takes about 8 hours every week.
+- And of course, a passion for teaching. 
 
 ## The teacher's job
 
@@ -53,12 +53,12 @@ To teach this course, you need to
 - Send [pre-course evaluation form](forms.md) along with course information. 
 
 ### Every session
-- The teacher should meditate for at least 20 minutes before the session. This will enable the teacher to act as an inspiration and help put the group in a calmer state of mind.
 - Facilitate the exercises.
 - Teach new methods and tools.
 - Be an active listener and ask questions.
-- Stay a while afterwards to answer questions from participants that they either didn't have the time to discuss during the session, or they want to do 1-on-1.
+- Stay a while after to answer questions from participants that they either didn't have the time to discuss during the session. Or that they want to ask 1-on-1.
 - Write down the key points from the session and email them to the group.
+- Also: the teacher should meditate for at least 20 minutes before the session. Hanging out with calm people makes you calmer.
 
 ### Post-course
 - Send out [anonymous feedback form](forms.md).
@@ -84,12 +84,12 @@ As a teacher, you want to have an understanding of stress, methods to counter st
 ## Tools
 I use [Thriver](http://www.thriver.io) to measure stress levels of the participants during the course. It's helpful to do some A/B testing with another team that is not doing the course but with a similar situation. Thriver also includes guided meditations that the participants can use as homework.
 
-You can also set up a Slack channel for the course where the group can bounce ideas, give feedback, motivate each others and ask for help.
+You can also set up a Slack channel for the course. The group can bounce ideas, give feedback, motivate each others and ask for help there.
 
 ## License
-This course is published under the [Creative Commons license](LICENSE). You are free to copy it and use it for commercial purposes - as long as you publish your own work under the same license.
+This course is published under the [Creative Commons license](LICENSE). You are free to copy it and use it for commercial purposes. Well, as long as you publish your own work under the same license.
 
-Please don't be shy to do pull requests as well. This course should be constantly updated with new findings and ideas.
+Please don't be shy to do pull requests as well. I'd love to update this course based on your ideas.
 
 ## AAQ (Anticipated Asked Questions)
 ### Can anyone run this course?
