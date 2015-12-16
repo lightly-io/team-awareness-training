@@ -54,6 +54,8 @@ Their **homework** from this point on is to do meditation for ten minutes, twice
 ## 4. Reflection
 Take turns to reflect on the meditation experience. Let each participant talk until they're finished. Answer any questions that might come up, and note those you don't have an answer for.
 
+How is stress related to fear? Is it possible to be stressed if we don't feel fear? Ask the group how meditation might counteract the stress-response that was discussed in the previous session.
+
 After the round, tell the group that you will be staying afterwards. Both to answer any questions that you didn't have time to discuss during the session and those they would like to ask 1-on-1.
 
 ## Extra material
