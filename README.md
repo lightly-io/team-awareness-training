@@ -12,9 +12,6 @@ The goal of this course is to increase focus and stress management skills.
 6. [License](#license).
 7. [AAQ](#aaq-anticipated-asked-questions).
 
-## Todo
-- Script for session #8.
-
 ## Course setup
 Eight participants meet once every week for a 60 minute session. A teacher will teach them new methods and facilitate reflection and learning. The course runs for eight weeks. Between sessions the participants will do homework on their own - mostly meditation practices.
 
