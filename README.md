@@ -36,52 +36,33 @@ The results are dependent on the amount of effort every participant puts in. The
 7. [Well-being](sessions/session-07-well-being.md).
 8. [Further training](sessions/session-08-further-training.md).
 
-## The teachers job
+## Requirements to be a teacher
 
-To teach this course, you need to ...
+To teach this course, you need to
+- Have the time to do it. Rougly 32 hours of effort is needed from the teacher in every course.
+- Have the time to stay up to date on research. You need to be on top of stress, producitivity, leadership, and organizational theory. This takes rougly 8 hours every week.
+- And of course, a genuine passion for teaching. Preferably in these areas. :)
 
-1. have the time to 
-- read through the documentation for all the sessions
-- send out all emails
-- coordinate room booking and invite
-- coach the participants in their training 
-- and manage the feedback and evaluations. 
+## The teacher's job
 
-**32 hours / course.**
-
-2. Have the time and energy to
-
-- stay up to date on the latest research on stress,
-- performance,
-- well-being,
-- organizational theory,
-- and tools to optimize these areas. 
-
-**4-12 hours / week.**
-
-3. And of course: a genuine interest in helping the participants increase their focus and lower their stress levels.
-
-### Before and after the course
-
-#### Before the course
+### Pre-course
 - Let people in the office know you want to help them be more calm and focused.
 - Sign up 8 participants.
 - Book a room for all 8 sessions.
 - Send meeting invites.
 - Send [pre-course evaluation form](forms.md) along with course information. 
 
-#### After the course
-- Send out [anonymous feedback form](forms.md).
-- Compile feedback and set it to the group as a PDF, including the measurements of KPIs before and after.
-
 ### Every session
+- The teacher should meditate for at least 20 minutes before the session. This will enable the teacher to act as an inspiration and help put the group in a calmer state of mind.
 - Facilitate the exercises.
 - Teach new methods and tools.
 - Be an active listener and ask questions.
 - Stay a while afterwards to answer questions from participants that they either didn't have the time to discuss during the session, or they want to do 1-on-1.
 - Write down the key points from the session and email them to the group.
 
-The teacher should meditate for at least 20 minutes before the session. This will enable the teacher to act as an inspiration and help put the group in a calmer state of mind.
+### Post-course
+- Send out [anonymous feedback form](forms.md).
+- Compile feedback and set it to the group as a PDF, including the measurements of KPIs before and after.
 
 ## Suggested reading
 As a teacher, you want to have an understanding of stress, methods to counter stress including meditation, flow, organizational development, leadership and coaching. There are a myriad of books available on these topics, such as:
