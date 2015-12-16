@@ -39,20 +39,23 @@ The results are dependent on the amount of effort every participant puts in. The
 ## The teachers job
 
 To teach this course, you need to ...
-- have the time to 
-- - read through the documentation for all the sessions
-- - send out all emails
-- - coordinate room booking and invite
-- - coach the participants in their training 
-- - and manage the feedback and evaluations. 
-- - **32 hours / course.**
-- as well as the time and energy to 
-- - stay up to date on the latest research on stress
-- - performance
-- - well-being 
-- - and tools to optimize these areas. 
-- - **4-12 hours / week.**
-- and of course: a genuine interest in helping the participants increase their focus and lower their stress levels.
+1. have the time to 
+- read through the documentation for all the sessions
+- send out all emails
+- coordinate room booking and invite
+- coach the participants in their training 
+- and manage the feedback and evaluations. 
+**32 hours / course.**
+
+2. Have the time and energy to :
+- stay up to date on the latest research on stress,
+- performance,
+- well-being,
+- organizational theory,
+- and tools to optimize these areas. 
+**4-12 hours / week.**
+
+3. And of course: a genuine interest in helping the participants increase their focus and lower their stress levels.
 
 ### Before and after the course
 
