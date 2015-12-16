@@ -4,10 +4,10 @@
 The goal of this course is to increase focus and stress management skills.
 
 ## Table of contents
-1. [Todo](#todo).
-2. [Course setup](#course-setup).
-3. [Sessions](#session-overview).
-4. [The teachers job](#the-teachers-job).
+1. [Course setup](#course-setup).
+2. [Teaching requirements](#requirements-to-be-a-teacher).
+3. [The teachers job](#the-teachers-job).
+4. [Sessions](#session-overview).
 5. [Tools](#tools).
 6. [License](#license).
 7. [AAQ](#aaq-anticipated-asked-questions).
@@ -21,17 +21,6 @@ The course will have a scientific viewpoint as a starting point. Everything taug
 This course aims to lower stress and increase focus in all participants. Target number depends on the team. A decrease of stress by 25%-30% is a good starting point. I've been able to reproduce that result consistenly over my last 5 courses.
 
 The results are dependent on the amount of effort every participant puts in. These practices are more practical than theoretical. Just reading about them will not help. Just knowing them will not help. They have to put in the work. It's like physical exercise, in that way.
-
-## Session overview
-
-1. [An overview of stress](sessions/session-01-stress.md).
-2. [Meditation](sessions/session-02-meditation.md).
-3. [Mindfulness](sessions/session-03-mindfulness.md).
-4. [Emotional intelligence](sessions/session-04-eq.md).
-5. [Flow](sessions/session-05-flow.md).
-6. [Company culture](sessions/session-06-culture.md).
-7. [Well-being](sessions/session-07-well-being.md).
-8. [Further training](sessions/session-08-further-training.md).
 
 ## Requirements to be a teacher
 
@@ -60,6 +49,17 @@ To teach this course, you need to
 ### Post-course
 - Send out [anonymous feedback form](forms.md).
 - Compile feedback and set it to the group as a PDF, including the measurements of KPIs before and after.
+
+## Session overview
+
+1. [An overview of stress](sessions/session-01-stress.md).
+2. [Meditation](sessions/session-02-meditation.md).
+3. [Mindfulness](sessions/session-03-mindfulness.md).
+4. [Emotional intelligence](sessions/session-04-eq.md).
+5. [Flow](sessions/session-05-flow.md).
+6. [Company culture](sessions/session-06-culture.md).
+7. [Well-being](sessions/session-07-well-being.md).
+8. [Further training](sessions/session-08-further-training.md).
 
 ## Suggested reading
 As a teacher, you want to have an understanding of stress, methods to counter stress including meditation, flow, organizational development, leadership and coaching. There are a myriad of books available on these topics, such as:
