@@ -77,4 +77,4 @@ Thank them for their time and attention.
 
 -
 
-[Session #6 - Company culture](session-06-culture.md) | [Team Awareness Training](../../..) | [Session #8 - Further training](session-08-further-training-md)
+[Session #6 - Company culture](session-06-culture.md) | [Team Awareness Training](../../..) | [Session #8 - Further training](session-08-further-training.md)
