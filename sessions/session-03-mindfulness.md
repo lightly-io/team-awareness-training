@@ -8,7 +8,7 @@ In this session, participants will learn about mindfulness, why it's kind of a u
 3. [Method](#3-ways-to-practice-mindfulness): different ways to increase mindfulness. (20 min)
 4. [Reflection](#4-reflection). (10 min)
 
-The teacher should note all key findings and questions in the session, and make sure to follow up on them in the email afterwards.
+The teacher should note all key findings during the session. Also make sure to write down questions you didn't have the time to answer, and get back to them in the email afterwards.
 
 ## 1. Sharing
 Take turns clock-wise around the table and reflect on the previous week. How has your experience of meditation been? Was it hard? Easy? Nice? Uncomfortable? Was it hard to find the time to do it? Did you notice anything different in stressful situations?
@@ -21,10 +21,10 @@ If the group works in the same building, perhaps they can set up a daily session
 
 It's not your job to make them feel bad for not doing the homework. Point out how important it is and coach them to make it happen.
 
-In this session, you will discuss how to perhaps make meditation happen while doing something completely different. A potential time-saver!
+In this session, you will discuss how meditate in-action. A potential time-saver!
 
 ## 2. Teaching: mindfulness
-Mindfulness is not a very useful word anymore. After the last couple of years hype, it has morphed from being an almost sacred act of attention into being, like, whatever. Sometimes it's used interchangeably with presence.
+Mindfulness is not a useful word anymore. After the last couple of years hype, it has morphed from being an almost sacred act of attention into being, like, whatever. Sometimes it's used interchangeably with presence.
 
 So I encourage you to make up your own words. What you're looking for is a state where you are aware of yourself and your surroundings. Your thoughts and feelings, the sounds around you, the breath moving in and out through the nose. Just like you practiced in meditation.
 
@@ -34,10 +34,10 @@ Most people agree that single-tasking is more productive than multi-tasking. But
 
 Mindfulness is, in a way, extreme single-tasking. Just walking, completely mindful. Or eating, without thinking about anything except the taste of the food. Actually not even thinking about the next slice of pizza before you've finished this one.
 
-There are long and complicated books trying to define mindfulness and how different types of mindfulness can be used in different spiritual activites. In this course, we're just learning what it feels like to do one thing at a time and experiencing it fully. Perhaps mindfulness is not the right word to use - feel free to make up something else.
+There are long and complicated books trying to define mindfulness. Exploring how different types of mindfulness can be used in different spiritual activites. In this course, we're just learning what it feels like to do one thing at a time and experiencing it fully. Perhaps mindfulness is not the right word to use - feel free to make up something else.
 
 ## 3. Method: ways to practice mindfulness
-Meditation is, as far as I know, the best way to actively increase your mindfulness. Being aware of the breath is good training for being aware of your food and your actions.
+Meditation is, as far as I know, the best way to increase your mindfulness. Being aware of the breath is good training for being aware of your food and your actions.
 
 But you could also do mindful eating. Have your meal and just have it. No phone, no talking. Eat it like it was a million-dollar meal.
 
@@ -51,14 +51,14 @@ If there is space enough in the room, try out mindful walking, or walking medita
 
 If there is not enough space, you could try eating meditation by handing out raisings. Feel them, taste them, chew them and swallow them mindfully.
 
-Or, you could just to meditation like last week, but calling it mindful breathing instead.
+Or, you could just do meditation like last week, but calling it mindful breathing instead.
 
 The **homework** for the coming week is to keep spending two times ten minutes a day on meditation. But it would be OK to switch one or both session for a mindful activity like eating or walking.
 
 ## 4. Reflection
-Take turns counter-clockwise to reflect on what was taught. How could mindfulness help with stress and focus? Let each participant talk until they're finished. Answer any questions that might come up, and note those you don't have an answer for.
+Take turns counter-clockwise to reflect on the concept of mindfulness. How could it help with stress and focus? Let each participant talk until they're finished. Answer any questions that might come up, and note those you don't have an answer for.
 
-After the round, tell the group that you will be staying afterwards to answer any questions that you didn't have time to discuss during the session or that they would like to ask 1-on-1. Thank them for their time and attention.
+Tell the group that you will stay afterwards to answer any questions that you didn't have time to discuss during the session. Thank them for their time and attention.
 
 ## Extra material
 - When you're doing meditation, try saying yes to everything. Say yes to restlessness. To thoughts drifting. To any pain that comes. Memories and anxiety. Try saying yes to everything and see what happens.
