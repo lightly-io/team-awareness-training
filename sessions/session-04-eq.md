@@ -51,12 +51,14 @@ This space between impulse and reaction is worth a whole lot in a stressful proj
 
 Try meditating together for 10 minutes and not shutting feelings out. Invite them for tea.
 
-The groups **homework** is to keep meditating for two times a day. They can use this emotional intelligence exercise in the meditation pratice as they see fit.
+The groups **homework** is to keep meditating for two times a day. The "Invite Mara for Tea" method can be used in every meditation session where a feeling keeps coming back.
 
 ## 4. Reflection
 Take turns counter-clockwise to reflect on emotional intelligence. Why is emotional intelligence important? Are there other ways to improve it? 
 
 Let each participant talk until they're finished. Answer any questions that might come up, and note those you don't have an answer for.
+
+A good question to ask the group is: do you feel like you *are* your thoughts? Do you decribe yourself as "being angry" or "having a feeling of anger"? It can make a huge difference. We can view emotions as weather. They come and go. We don't always need to identify with them.
 
 As usual, tell the group that you will be staying afterwards to answer any questions that you didn't have time to discuss during the session.
 
