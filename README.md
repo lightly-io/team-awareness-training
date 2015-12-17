@@ -9,8 +9,9 @@ The goal of this course is to increase focus and stress management skills.
 3. [The teachers job](#the-teachers-job).
 4. [Sessions](#session-overview).
 5. [Tools](#tools).
-6. [License](#license).
-7. [AAQ](#aaq-anticipated-asked-questions).
+6. [Credits](#credits).
+7. [License](#license).
+8. [AAQ](#aaq-anticipated-asked-questions).
 
 ## Course setup
 Eight participants meet once every week for a 60 minute session. A teacher will teach them new methods and facilitate reflection and learning. The course runs for eight weeks. Between sessions the participants will do homework on their own - mostly meditation practices.
@@ -83,6 +84,11 @@ I use [Thriver](http://www.thriver.io) to measure stress levels of the participa
 
 You can also set up a Slack channel for the course. The group can bounce ideas, give feedback, motivate each others and ask for help there.
 
+## Credits
+This course is based on the Mindfulness Based Stress Reduction course created by Jon Kabat-Zinn and Google's Search Inside Yourself course. This is a remix. Or a best of. I've also stolen methods from buddhist scripture, science on happiness and well-being, and flow. There's really nothing new in this course except maybe the particular mix of teachings and the process.
+
+I strongly encourage you to make your own remix based on your own experience.
+
 ## License
 This course is published under the [Creative Commons license](LICENSE). You are free to copy it and use it for commercial purposes. Well, as long as you publish your own work under the same license.
 
@@ -110,3 +116,5 @@ So, no, I don't think it should be kept a secret.
 
 If you want to, you can make up your own certificate and give it to yourself. 
 
+## So it doesn't matter who teaches this course?
+It does matter. A more experienced teacher will get better results than a less experienced one. What I'm saying is that there's no need to keep these methods secret. And that you don't have to pay someone to start teaching meditation. You can just go ahead and do it. Someone made it up in the first place, you know.
