@@ -85,6 +85,10 @@ I use [Thriver](http://www.thriver.io) to measure stress levels of the participa
 You can also set up a Slack channel for the course. The group can bounce ideas, give feedback, motivate each others and ask for help there.
 
 ## Credits
+Course created by Mattis Erngren. Reach me on @mattisern and mattis@lightly.io.
+
+But that "created by" ... that's not really true.
+
 This course is based on the Mindfulness Based Stress Reduction course created by Jon Kabat-Zinn and Google's Search Inside Yourself course. This is a remix. Or a best of. I've also stolen methods from buddhist scripture, science on happiness and well-being, and flow. There's really nothing new in this course except maybe the particular mix of teachings and the process.
 
 I strongly encourage you to make your own remix based on your own experience.
