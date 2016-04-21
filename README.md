@@ -3,6 +3,12 @@
 
 The goal of this course is to increase focus and stress management skills.
 
+### Update April 21, 2016
+1. I have updated the course in the past months, but haven't yet come around to update everything here on Github.
+It's in my backlog. Feel free to email me in the meantime and ask anything you'd like to. The address s mattis@lightly.io.
+
+2. Since I've also posted my [workshop](https://github.com/mattisern/workshop-focused-and-fearless) here on Github, I figure it's not necessary to keep material related to both products updated separately. I'll keep all links on research, apps, books, etc. in the workshop repository.
+
 ## Table of contents
 1. [Course setup](#course-setup).
 2. [Teaching requirements](#requirements-to-be-a-teacher).
@@ -11,7 +17,8 @@ The goal of this course is to increase focus and stress management skills.
 5. [Tools](#tools).
 6. [Credits](#credits).
 7. [License](#license).
-8. [AAQ](#aaq-anticipated-asked-questions).
+8. [Todo](#todo).
+9. [AAQ](#aaq-anticipated-asked-questions).
 
 ## Course setup
 Eight participants meet once every week for a 60 minute session. A teacher will teach them new methods and facilitate reflection and learning. The course runs for eight weeks. Between sessions the participants will do homework on their own - mostly meditation practices.
@@ -28,7 +35,7 @@ The results are dependent on the amount of effort every participant puts in. The
 To teach this course, you need to
 - Have the time to do it. Every course demands 32 hours from the teacher.
 - Have the time to stay up to date on research. The teacher need to be on top of stress, producitivity, leadership, and organizational theory. This takes about 8 hours every week.
-- And of course, a passion for teaching. 
+- And of course, a passion for teaching.
 
 ## The teacher's job
 
@@ -37,7 +44,7 @@ To teach this course, you need to
 - Sign up 8 participants.
 - Book a room for all 8 sessions.
 - Send meeting invites.
-- Send [pre-course evaluation form](forms.md) along with course information. 
+- Send [pre-course evaluation form](forms.md) along with course information.
 
 ### Every session
 - Facilitate the exercises.
@@ -98,6 +105,14 @@ This course is published under the [Creative Commons license](LICENSE). You are 
 
 Please don't be shy to do pull requests as well. I'd love to update this course based on your ideas.
 
+## Todo
+- Change session numbers on Well-being to number 6.
+- Add a new session at number 7 - the group picks contents from a list.
+- Update form based on latest live version.
+- Update recommended books to a link to the book list in the workshop repo.
+- Link to research.
+- Use Grammarly to identify spellning and grammar errors
+
 ## AAQ (Anticipated Asked Questions)
 ### Can anyone run this course?
 Yes! As long as they have the time and the motivation.
@@ -110,7 +125,7 @@ I don't think so. It's kind of like jogging. It should be available to everyone.
 
 It's not rocket science.
 
-Of course, you could teach advanced techniques, methods and theories. But from my perspective, a lot of people are in desperate need of just the basic method. Sit down, watch your mind, watch your breath. 
+Of course, you could teach advanced techniques, methods and theories. But from my perspective, a lot of people are in desperate need of just the basic method. Sit down, watch your mind, watch your breath.
 
 Or perhaps we can compare it to dieting. Most people don't need any advanced dieting regimes. Just move your booty and stay away from that candy and pizza, and you'll be OK. Anyone can teach that. The teaching is not the hard part.
 
@@ -118,7 +133,7 @@ The magic is more in the process. As a group, we hold each other accountable. As
 
 So, no, I don't think it should be kept a secret.
 
-If you want to, you can make up your own certificate and give it to yourself. 
+If you want to, you can make up your own certificate and give it to yourself.
 
 ## So it doesn't matter who teaches this course?
 It does matter. A more experienced teacher will get better results than a less experienced one. What I'm saying is that there's no need to keep these methods secret. And that you don't have to pay someone to start teaching meditation. You can just go ahead and do it. Someone made it up in the first place, you know.
