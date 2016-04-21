@@ -5,7 +5,7 @@ The goal of this course is to increase focus and stress management skills.
 
 ### Update April 21, 2016
 1. I have updated the course in the past months, but haven't yet come around to update everything here on Github.
-It's in my backlog. Feel free to email me in the meantime and ask anything you'd like to. The address s mattis@lightly.io.
+It's in my backlog. You can find all of the todos listed in the todo item below. Feel free to email me in the meantime and ask anything you'd like to. My email address is mattis@lightly.io.
 
 2. Since I've also posted my [workshop](https://github.com/mattisern/workshop-focused-and-fearless) here on Github, I figure it's not necessary to keep material related to both products updated separately. I'll keep all links on research, apps, books, etc. in the workshop repository.
 
