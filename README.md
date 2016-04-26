@@ -26,7 +26,7 @@ Eight participants meet once every week for a 60 minute session. A teacher will 
 The course will have a scientific viewpoint as a starting point. Everything taught should be verified in clinical trials and/or the participants own experiences. The teachers measures KPIs such as stress and focus before and after the course.
 
 ### Target outcomes
-This course aims to lower stress and increase focus in all participants. Target number depends on the team. A decrease of stress by 25%-30% is a good starting point. I've been able to reproduce that result consistenly over my last 5 courses.
+This course aims to lower stress and increase focus in all participants. Target number depends on the team. A decrease of stress by 25%-30% is a good starting point. I've been able to reproduce that result consistenly over my last courses. If you don't get boosted focus as a result of this course, re-iterate.
 
 The results are dependent on the amount of effort every participant puts in. These practices are more practical than theoretical. Just reading about them will not help. Just knowing them will not help. They have to put in the work. It's like physical exercise, in that way.
 
@@ -35,7 +35,10 @@ The results are dependent on the amount of effort every participant puts in. The
 To teach this course, you need to
 - Have the time to do it. Every course demands 32 hours from the teacher.
 - Have the time to stay up to date on research. The teacher need to be on top of stress, producitivity, leadership, and organizational theory. This takes about 8 hours every week.
+- A meditation practice of your own.
 - And of course, a passion for teaching.
+
+You don't need any certificates or permission to start teaching these methods. Any education is helpful, but beware the brands that are trying to make money out of this.
 
 ## The teacher's job
 
