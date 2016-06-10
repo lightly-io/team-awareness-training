@@ -7,7 +7,7 @@ The goal of this course is to increase focus and stress management skills.
 1. I have updated my teaching in the past months, but haven't come around to update everything here on Github.
 It's in my backlog. I've listed all the updates I want to do in the todo section below. Feel free to email me in the meantime and ask anything you'd like to. My email address is mattis@lightly.io.
 
-2. Since I've also posted my [workshop](https://github.com/mattisern/workshop-focused-and-fearless) here on Github, I figure it's not necessary to keep material related to both products updated separately. I'll keep all links on research, apps, books, etc. updated in the workshop repository only. 
+2. Since I've also posted my [workshop](https://github.com/mattisern/workshop-focused-and-fearless) here on Github, I figure it's not necessary to keep material related to both products updated separately. I'll keep all links on research, apps, books, etc. updated in the **workshop repository only**. 
 
 ## Table of contents
 1. [Course setup](#course-setup).
@@ -34,7 +34,7 @@ The results are dependent on the amount of effort every participant puts in. The
 
 To teach this course, you need to
 - Have the time to do it. Every course demands 32 hours from the teacher.
-- Have the time to stay up to date on research. The teacher need to be on top of stress, producitivity, leadership, and organizational theory. This takes about 8 hours every week.
+- Have the time to stay up to date on research. The teacher need to be on top of stress, producitivity, leadership, and organizational theory. This takes about 8+ hours every week.
 - A meditation practice of your own.
 - And of course, a passion for teaching.
 
@@ -109,12 +109,10 @@ This course is published under the [Creative Commons license](LICENSE). You are 
 Please don't be shy to do pull requests as well. I'd love to update this course based on your ideas.
 
 ## Todo
-- Change session numbers on Well-being to number 6.
-- Add a new session at number 7 - the group picks contents from a list.
 - Update form based on latest live version.
 - Update recommended books to a link to the book list in the workshop repo.
-- Link to research.
-- Use Grammarly to identify spellning and grammar errors
+- Link to research in the workshop repo.
+- Use Grammarly to identify spellning and grammar errors.
 
 ## AAQ (Anticipated Asked Questions)
 ### Can anyone run this course?
