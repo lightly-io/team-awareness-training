@@ -136,5 +136,5 @@ So, no, I don't think it should be kept a secret.
 
 If you want to, you can make up your own certificate and give it to yourself.
 
-## So it doesn't matter who teaches this course?
+### So it doesn't matter who teaches this course?
 It does matter. A more experienced teacher will get better results than a less experienced one. What I'm saying is that there's no need to keep these methods secret. And that you don't have to pay someone to start teaching meditation. You can just go ahead and do it. Someone made it up in the first place, you know.
