@@ -106,6 +106,7 @@ Please don't be shy to do pull requests as well. I'd love to update this course 
 - Update recommended books to a link to the book list in the workshop repo.
 - Link to research in the workshop repo.
 - Use Grammarly to identify spellning and grammar errors.
+- Update all sessions based on learnings in the last year.
 
 ## AAQ (Anticipated Asked Questions)
 ### Can anyone run this course?
