@@ -34,7 +34,7 @@ The results are dependent on the amount of effort every participant puts in. The
 
 To teach this course, you need to
 - Have the time to do it. Every course demands 32 hours from the teacher.
-- Have the time to stay up to date on research. The teacher need to be on top of stress, producitivity, leadership, and organizational theory. This takes about 8+ hours every week.
+- Have the time to stay up to date on research. The teacher need to be on top of stress, producitivity, leadership, and organizational theory. This takes ~8 hours every week.
 - A meditation practice of your own.
 - And of course, a passion for teaching.
 
@@ -75,19 +75,12 @@ You don't need any certificates or permission to start teaching these methods. A
 ## Suggested reading
 As a teacher, you want to have an understanding of stress, methods to counter stress including meditation, flow, organizational development, leadership and coaching. There are a myriad of books available on these topics, such as:
 - Search Inside Yourself by Chade-Meng Tan.
-- Full Catastrophe Living by Jon Kabat-Zinn.
 - Focus by Daniel Goleman.
 - Flow by Mihaly Csikszentmihalyi.
-- Mindfulness by Joseph Goldstein.
 - The Buddha's Brain by Rick Hanson.
-- Waking Up by Sam Harris.
 - How The Mind Works by Steven Pinker.
 - Reinventing Organizations by Frederic Laloux.
-- Focused & Fearless by Shaila Catherine.
-- Radical Acceptance by Tara Brach.
-- A Path With Heart by Jack Kornfield.
 - Meditations by Marcus Aurelius.
-- The Way of Zen by Alan Watts.
 
 ## Tools
 I use [Thriver](http://www.thriver.io) to measure stress levels of the participants during the course. It's helpful to do some A/B testing with another team that is not doing the course but with a similar situation. Thriver also includes guided meditations that the participants can use as homework.
@@ -137,4 +130,4 @@ So, no, I don't think it should be kept a secret.
 If you want to, you can make up your own certificate and give it to yourself.
 
 ### So it doesn't matter who teaches this course?
-It does matter. A more experienced teacher will get better results than a less experienced one. What I'm saying is that there's no need to keep these methods secret. And that you don't have to pay someone to start teaching meditation. You can just go ahead and do it. Someone made it up in the first place, you know.
+It does matter. A more experienced teacher will get better results than a less experienced one. What I'm saying is that you don't need to pretend that these methods are mystical and should be protected. And that you don't have to pay someone to start teaching meditation. You can just go ahead and do it. Someone made it up in the first place, you know.
