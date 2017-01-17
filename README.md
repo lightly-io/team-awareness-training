@@ -83,7 +83,7 @@ As a teacher, you want to have an understanding of stress, methods to counter st
 - Meditations by Marcus Aurelius.
 
 ## Tools
-I use [Thriver](http://www.thriver.io) to measure stress levels of the participants during the course. It's helpful to do some A/B testing with another team that is not doing the course but with a similar situation. Thriver also includes guided meditations that the participants can use as homework.
+You can use [OfficeVibe](https://www.officevibe.com/) to measure stress levels of the participants during the course. It's helpful to do some A/B testing with another team that is not doing the course but with a similar situation. 
 
 You can also set up a Slack channel for the course. The group can bounce ideas, give feedback, motivate each others and ask for help there.
 
