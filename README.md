@@ -26,7 +26,7 @@ Eight participants meet once every week for a 60 minute session. A teacher will 
 The course will have a scientific viewpoint as a starting point. Everything taught should be verified in clinical trials and/or the participants own experiences. The teachers measures KPIs such as stress and focus before and after the course.
 
 ### Target outcomes
-This course aims to lower stress and increase focus in all participants. Target number depends on the team. A decrease of stress by 25%-30% is a good starting point. I've been able to reproduce that result consistenly over my last courses. If you don't get boosted focus as a result of this course, re-iterate.
+This course aims to lower stress and increase focus in all participants. Target number depends on the team. A decrease of stress by 25%-30% is a good starting point. Focus should increase by 30% or more.I've been able to reproduce that result consistenly over my last courses. If you don't get boosted focus as a result of this course, re-iterate.
 
 The results are dependent on the amount of effort every participant puts in. These practices are more practical than theoretical. Just reading about them will not help. Just knowing them will not help. They have to put in the work. It's like physical exercise, in that way.
 
@@ -39,6 +39,12 @@ To teach this course, you need to
 - And of course, a passion for teaching.
 
 You don't need any certificates or permission to start teaching these methods. Any education is helpful, but beware the brands that are trying to make money out of this.
+
+## Session setup
+- Start by taking turns. Each participant tells the group about what his/hers main obstacle to be calm & focused is. If it's not your turn, start by just listening and asking questions. Don't jump to solutions too fast. It's more important to know the root cause of the problem, and it might take a while to get there. Each participant should leave the session with homework targeted towards their specific root cause. 
+- After taking turns, the teacher comes in with this sessions theory & methods. See contents for specific sessions below.
+- Meditate together.
+- Finish up by taking turns and reflecting upon this weeks session.
 
 ## The teacher's job
 
