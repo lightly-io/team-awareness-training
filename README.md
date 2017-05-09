@@ -3,6 +3,9 @@
 
 The goal of this course is to increase focus and stress management skills.
 
+### Update May 7, 2017
+I have more and more started to rely on the groups specific obstacles. This means that I no longer come in with a specific theme each week. This new way of working is still very much in progress. You can follow the development here: [The Lightly Method](https://github.com/lightly-io/the-lightly-method).
+
 ### Update April 21, 2016
 1. I have updated my teaching in the past months, but haven't come around to update everything here on Github.
 It's in my backlog. I've listed all the updates I want to do in the todo section below. Feel free to email me in the meantime and ask anything you'd like to. My email address is mattis@lightly.io.
