@@ -4,7 +4,7 @@
 The goal of this course is to increase focus and stress management skills.
 
 ### Update May 7, 2017
-I have more and more started to rely on the groups specific obstacles. This means that I no longer come in with a specific theme each week. This new way of working is still very much in progress. You can follow the development here: [The Lightly Method](https://github.com/lightly-io/the-lightly-method).
+I have more and more started to rely on the group's specific obstacles. This means that I no longer come in with a specific theme each week. This new way of working is still very much in progress. You can follow the development here: [The Lightly Method](https://github.com/lightly-io/the-lightly-method).
 
 ### Update April 21, 2016
 1. I have updated my teaching in the past months, but haven't come around to update everything here on Github.
